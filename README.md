@@ -1,3 +1,6 @@
+A fork of timewasted's PHP Cloud files batch uploader, with some extra features to (someday) make it a viable backup solution for large directories, similar to rsync but with CloudFiles as a remote target.
+
+
 cloudfiles-batch-upload
 =======================
 
